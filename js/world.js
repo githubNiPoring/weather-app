@@ -131,8 +131,4 @@ searchinput.addEventListener("keydown", async function (event) {
   }
 });
 
-city("London");
-city("Paris");
-city("New York");
-city("Mumbai");
-city("Tokyo");
+city("Philippines");
